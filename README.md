@@ -1,4 +1,4 @@
-# hey, i'm adi �️
+# Hey :/
 
 tinkerer who likes building things from scratch. currently obsessed with ai video generation.
 
