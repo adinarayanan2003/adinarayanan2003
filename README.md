@@ -8,10 +8,10 @@ tinkerer who likes building things from scratch. currently obsessed with ai vide
 
 ## interests
 
-🎬 generative video & motion graphics  
-🤖 ai agents that actually do stuff  
-🔧 low-level systems & os internals  
-👁️ computer vision pipelines
+-> generative video & motion graphics  
+>- ai agents that actually do stuff  
+-> low-level systems & os internals  
+>- computer vision pipelines
 
 ## tech
 
