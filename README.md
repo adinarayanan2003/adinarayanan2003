@@ -35,5 +35,6 @@ tinkerer who likes building things from scratch. currently obsessed with ai vide
 ## currently building
 
 - making owly smarter — character consistency, multi-shot narratives, burned-in subtitles
-- experimenting with veo3 + gemini vision for next-gen video synthesis
+- VAE
+- Agentic video editing
 - breaking and fixing things as usual
