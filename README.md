@@ -1,4 +1,4 @@
-# Hey :/
+# Hola :/
 
 tinkerer who likes building things from scratch. currently obsessed with ai video pipelines and foundational tech
 
