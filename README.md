@@ -7,7 +7,7 @@ I like building things from scratch. Currently obsessed with multimodal AI
 ## interests
 
 -> generative video & motion graphics  
--> ai agents that actually do stuff  
+-> ai agents that control ai agents  
 -> low-level systems & os internals  
 -> computer vision pipelines
 
