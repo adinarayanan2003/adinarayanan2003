@@ -30,9 +30,4 @@ I like building things from scratch. Currently obsessed with multimodal AI
 | **recursive dns resolver** | full dns resolution chain with caching, cname chaining, and tcp fallback |
 | **solana trading bot** | algorithmic trading using jupiter aggregator for optimal route swaps |
 
-## currently building
 
-- making owly smarter — character consistency, multi-shot narratives, burned-in subtitles
-- VAE
-- Agentic video editing
-- breaking and fixing things as usual
