@@ -24,7 +24,7 @@ I like building things from scratch. Currently obsessed with multimodal AI
 
 | name | description |
 |------|-------------|
-| [**owly**](https://owly.studio) | end-to-end ai video ads — analyzes websites, writes scripts, generates storyboards, outputs ready-to-publish videos |
+| [**owly Ads**](https://owly.studio) | end-to-end ai video ads — analyzes websites, writes scripts, generates storyboards, outputs ready-to-publish videos |
 | **agentic video editor** | talk to your video editor in plain english. built with mcp, controls timeline via natural language |
 | **project expos** | wrote an os from scratch — virtual memory, page tables, process scheduling, the whole deal |
 | **recursive dns resolver** | full dns resolution chain with caching, cname chaining, and tcp fallback |
