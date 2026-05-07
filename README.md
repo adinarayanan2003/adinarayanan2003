@@ -6,9 +6,11 @@ I like building things from scratch. Currently obsessed with multimodal AI
 
 ## interests
 
--> generative video & motion graphics  
--> ai agents that control ai agents  
--> low-level systems & os internals  
+-> generative video 
+-> generative motion graphics  
+-> recursive agents  
+-> Memory management systems
+-> os internals  
 -> computer vision pipelines
 
 ## stack
