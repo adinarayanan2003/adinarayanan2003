@@ -10,7 +10,6 @@ I like building things from scratch. Currently obsessed with multimodal AI
 -> generative motion graphics  
 -> recursive agents  
 -> Memory management systems
-
 -> os internals  
 -> computer vision pipelines
 
