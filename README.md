@@ -20,14 +20,5 @@ I like building things from scratch. Currently obsessed with multimodal AI
 ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## projects
-
-| name | description |
-|------|-------------|
-| [**owly Ads**](https://owly.studio) | end-to-end ai video ads — analyzes websites, writes scripts, generates storyboards, outputs ready-to-publish videos |
-| [**agentic video editor**](https://github.com/adinarayanan2003/FrameForge) | talk to your video editor in plain english. built with mcp, controls timeline via natural language |
-| **project expos** | wrote an os from scratch — virtual memory, page tables, process scheduling, the whole deal |
-| **recursive dns resolver** | full dns resolution chain with caching, cname chaining, and tcp fallback |
-| **solana trading bot** | algorithmic trading using jupiter aggregator for optimal route swaps |
 
 
