@@ -1,4 +1,6 @@
-I like building things from scratch. Currently obsessed with multimodal AI 
+I like building things from scratch. 
+
+Currently obsessed with multimodal AI 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/adi_naraynan)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi-narayanan-koroth-512401160/)
